@@ -2,6 +2,8 @@
 
 !! This theme is currently a work in progress! I wouldn't advise downloading now. It won't hurt you, but its a little ugly.
 
+--- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
 
 There are a *lot* of Obsidian themes out there, but I couldn't find exactly what I wanted. Charlotte theme is a theme in progress aiming to address my specific wants which I haven't been able to find elsewhere:
   1. Off-white colour pallette which is easy on the eyes over long periods of time
