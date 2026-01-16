@@ -8,7 +8,31 @@ body {
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
 	--slider-thumb-radius: 0px;
+	--font-text-theme: Georgia, serif;
+	--tab-curve: 13px;
+	--tab-radius: 13px;
+	--tab-radius-active: 13px;
 }
+
+
+.theme-dark {
+	--background-primary: #18004F;
+	--background-secondary: #220070;
+  }
+
+  .theme-light {
+/*	--background-primary: #faecec; */
+
+	--ribbon-background: rgb(193, 188, 193);
+	--background-primary: #F2F2F2; /* soft greu */
+	--background-secondary: #c7c3c3;
+	--tab-background-active:  #F2F2F2;
+	--tab-text-color-active:  #c7c3c3;
+	/* Default Obsidian highlight */
+	--highlight-primary-bg: #acffa3;
+	--highlight-primary-fg: #1e1e1e;
+  }
+
 
 .workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
 	display: none;
